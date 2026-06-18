@@ -1,3 +1,4 @@
+"use client";
 import React, { useState, useEffect } from 'react';
 import { Trophy, PlusCircle, Users, Flag, Phone, Shield, ArrowRight, Search, CheckCircle } from 'lucide-react';
 
