@@ -1,6 +1,4 @@
-"use client";
-import React, { useState, useEffect } from 'react';
-import { Trophy, PlusCircle, Users, Flag, Phone, Shield, ArrowRight, Search, CheckCircle } from 'lucide-react';
+{
   "name": "links-golf-platform",
   "version": "1.0.0",
   "private": true,
